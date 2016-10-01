@@ -1,0 +1,2 @@
+# peanuts
+Southwest flight checker
