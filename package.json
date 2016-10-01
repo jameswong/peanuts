@@ -1,0 +1,14 @@
+{
+  "name": "peanuts",
+  "version": "0.0.1",
+  "description": "Southwest flight checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Wong",
+  "license": "MIT",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.12"
+  }
+}
